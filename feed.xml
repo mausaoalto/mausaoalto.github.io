@@ -7,9 +7,7 @@
     <copyright>&#169; 2021 Maus Ao Alto</copyright>
     <itunes:author>Maus Ao Alto</itunes:author>
     <description>
-      Love to get outdoors and discover nature&apos;s treasures? Hiking Treks is the
-      show for you. We review hikes and excursions, review outdoor gear and interview
-      a variety of naturalists and adventurers. Look for new episodes each week.
+       <![CDATA[ <p>Comédia, Política, Filosofia, ideias de negócio, ideias disparatadas.</p><p>O Podcast português mais completo e curto de sempre.</p> ]]>
     </description>
     <itunes:type>serial</itunes:type>
     <itunes:owner>
@@ -19,33 +17,16 @@
     <itunes:image
       href="https://mausaoalto.github.io/logo.png"
     />
-    <itunes:category text="what">
-      <itunes:category text="what"/>
+    <itunes:category text="Comedy">
+    <itunes:category text="News"/>
+    <itunes:category text="Philosophy"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:title>COVID 19 e a restauração</itunes:title>
       <description>
-         Respostas às perguntas: Qual o impacto do covid na restauração?
-         Onde tudo começou?
-      </description>
-      <enclosure 
-        length="1541888" 
-        type="audio/mp3" 
-        url="https://mausaoalto.github.io/files/1_COVIDerestauracao.mp3"
-      />
-      <guid>maa20210114</guid>
-      <pubDate>Thursday, 14 Jan 2021 18:48:00 GMT</pubDate>
-      <itunes:duration>2:19</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:title>COVID 19 e a restauração</itunes:title>
-      <description>
-         Respostas às perguntas: Qual o impacto do covid na restauração?
-         Onde tudo começou?
+      <![CDATA[ <p> Respostas às perguntas:</p><p>Qual o impacto do covid na restauração?</p><p>Onde tudo começou?</p>]]>
       </description>
       <enclosure 
         length="1541888" 
