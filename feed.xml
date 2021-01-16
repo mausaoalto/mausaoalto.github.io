@@ -5,14 +5,11 @@
     <link>https://mausaoalto.github.io/mausaoalto.github.io/feed.xml</link>
     <language>pt</language>
     <copyright>&#169; 2021 Maus Ao Alto</copyright>
-    <googleplay:author>Maus Ao Alto</googleplay:author>
     <itunes:author>Maus Ao Alto</itunes:author>
     <description>
        Comédia, Política, Filosofia, ideias de negócio, ideias disparatadas. 
        O Podcast português mais completo e curto de sempre. 
     </description>
-    <googleplay:description> Comédia, Política, Filosofia, ideias de negócio, ideias disparatadas. 
-       O Podcast português mais completo e curto de sempre. </googleplay:description>
     <itunes:summary> Comédia, Política, Filosofia, ideias de negócio, ideias disparatadas. 
        O Podcast português mais completo e curto de sempre. </itunes:summary>
     <itunes:type>serial</itunes:type>
@@ -24,11 +21,8 @@
       href="https://mausaoalto.github.io/logo.png"
     />
     <itunes:category text="Comedy">
-    <googleplay:category text="Comedy"/> 
     <itunes:category text="News"/>
-    <googleplay:category text="News"/> 
     <itunes:category text="Philosophy"/>
-    <googleplay:category text="Philosophy"/> 
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
