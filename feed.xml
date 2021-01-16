@@ -37,6 +37,8 @@
       <pubDate>Thursday, 14 Jan 2021 18:48:00 GMT</pubDate>
       <itunes:duration>2:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -53,6 +55,8 @@
       <pubDate>Saturday, 16 Jan 2021 13:28:00 GMT</pubDate>
       <itunes:duration>3:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -69,6 +73,8 @@
       <pubDate>Saturday, 16 Jan 2021 13:29:00 GMT</pubDate>
       <itunes:duration>55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -86,6 +92,8 @@
       <pubDate>Saturday, 16 Jan 2021 13:30:00 GMT</pubDate>
       <itunes:duration>2:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -102,6 +110,8 @@
       <pubDate>Saturday, 16 Jan 2021 13:31:00 GMT</pubDate>
       <itunes:duration>42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
     </item>
         <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -118,6 +128,8 @@
       <pubDate>Saturday, 16 Jan 2021 13:33:00 GMT</pubDate>
       <itunes:duration>2:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
     </item>
     
   </channel>
