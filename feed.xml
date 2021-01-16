@@ -24,11 +24,11 @@
       href="https://mausaoalto.github.io/logo.png"
     />
     <itunes:category text="Comedy">
-    <googleplay:category text="Comedy"> 
+    <googleplay:category text="Comedy"/> 
     <itunes:category text="News"/>
-    <googleplay:category text="News"> 
+    <googleplay:category text="News"/> 
     <itunes:category text="Philosophy"/>
-    <googleplay:category text="Philosophy"> 
+    <googleplay:category text="Philosophy"/> 
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
