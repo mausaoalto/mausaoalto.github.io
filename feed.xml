@@ -24,7 +24,7 @@
     <itunes:explicit>false</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:title>COVID 19 e a restauração</itunes:title>
+      <itunes:title>COVID 19 e restauração</itunes:title>
       <description>
       <![CDATA[ <p> Respostas às perguntas:</p><p>Qual o impacto do covid na restauração?</p><p>Onde tudo começou?</p>]]>
       </description>
@@ -38,5 +38,87 @@
       <itunes:duration>2:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:title>Presidenciais 2021 Debates</itunes:title>
+      <description>
+      <![CDATA[ <p> Respostas à pergunta:</p><p>Em quem votar nas presidenciais de 2021?</p>]]>
+      </description>
+      <enclosure 
+        length="2678914" 
+        type="audio/mp3" 
+        url="https://mausaoalto.github.io/files/2_presidenciais2021.mp3"
+      />
+      <guid>maa20210116</guid>
+      <pubDate>Saturday, 16 Jan 2021 13:28:00 GMT</pubDate>
+      <itunes:duration>3:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:title>Receitas para jantar</itunes:title>
+      <description>
+      <![CDATA[ <p>2 ideias para jantar num minuto.</p>]]>
+      </description>
+      <enclosure 
+        length="624803" 
+        type="audio/mp3" 
+        url="https://mausaoalto.github.io/files/3_receitaparajantar.mp3"
+      />
+      <guid>maa20210116</guid>
+      <pubDate>Saturday, 16 Jan 2021 13:29:00 GMT</pubDate>
+      <itunes:duration>55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:title>Natal Covid</itunes:title>
+      <description>
+      <![CDATA[ <p>Uma ideia tão brilhante para celebrar o Natal em tempos de COVID que merece ser partilhada.
+.</p><p>Até a carta ao pai natal aparece.</p>]]>
+      </description>
+      <enclosure 
+        length="1959771" 
+        type="audio/mp3" 
+        url="https://mausaoalto.github.io/files/4_NatalCovid.mp3"
+      />
+      <guid>maa20210116</guid>
+      <pubDate>Saturday, 16 Jan 2021 13:30:00 GMT</pubDate>
+      <itunes:duration>2:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:title>Robots aspirador</itunes:title>
+      <description>
+      <![CDATA[ <p>Como vão ser os robots aspiradores no futuro?</p>]]>
+      </description>
+      <enclosure 
+        length="472445" 
+        type="audio/mp3" 
+        url="https://mausaoalto.github.io/files/5_robotsdecozinha.mp3"
+      />
+      <guid>maa20210116</guid>
+      <pubDate>Saturday, 16 Jan 2021 13:31:00 GMT</pubDate>
+      <itunes:duration>42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+        <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:title>Como surgiu o Crossfit?</itunes:title>
+      <description>
+      <![CDATA[ <p>Este episódio poderia ter sido muito mais profundo, filosófico e longo. Mas só conseguimos descobrir como nasceu o Crossfit!</p>]]>
+      </description>
+      <enclosure 
+        length="2510510" 
+        type="audio/mp3" 
+        url="https://mausaoalto.github.io/files/6_comosurgiuocrossfit.mp3"
+      />
+      <guid>maa20210116</guid>
+      <pubDate>Saturday, 16 Jan 2021 13:33:00 GMT</pubDate>
+      <itunes:duration>2:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    
   </channel>
 </rss>
