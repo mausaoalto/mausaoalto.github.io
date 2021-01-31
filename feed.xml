@@ -136,7 +136,7 @@
       <itunes:episode>5</itunes:episode>
       <itunes:season>1</itunes:season>
     </item>
-        <item>
+    <item>
       <itunes:episodeType>full</itunes:episodeType>
        <title>
        Como surgiu o Crossfit?
@@ -158,6 +158,27 @@
       <itunes:episode>6</itunes:episode>
       <itunes:season>1</itunes:season>
     </item>
-    
+     <item>
+      <itunes:episodeType>full</itunes:episodeType>
+       <title>
+       Escola Profissional
+      </title>
+      <itunes:title>Escola Profissional</itunes:title>
+      <description>
+      <![CDATA[ <p>Tentamos criar o jingle do podcast, mas acabamos a falar do profissionalismo em Portugal.</p>]]>
+      </description>
+         <itunes:summary>Tentamos criar o jingle do podcast, mas acabamos a falar do profissionalismo em Portugal.</itunes:summary>
+      <enclosure 
+        length="2492218" 
+        type="audio/mp3" 
+        url="https://mausaoalto.github.io/files/7_escolaprofissional.mp3"
+      />
+      <guid>maa2021013107</guid>
+      <pubDate>Saturday, 31 Jan 2021 16:33:00 GMT</pubDate>
+      <itunes:duration>3:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
   </channel>
 </rss>
