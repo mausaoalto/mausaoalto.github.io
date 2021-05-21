@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Maus Ao Alto</title>
     <link>https://mausaoalto.github.io/</link>
@@ -17,13 +19,11 @@
       <itunes:name>Maus Ao Alto</itunes:name>
       <itunes:email>mausaoalto@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image
-      href="https://mausaoalto.github.io/logo.png"
-    />
+    <itunes:image href="https://mausaoalto.github.io/logo.png" />
     <itunes:category text="Comedy"/>
     <itunes:category text="News"/>
     <itunes:category text="Society &amp; Culture">
-    <itunes:category text="Philosophy"/>
+      <itunes:category text="Philosophy"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
@@ -33,14 +33,10 @@
       </title>
       <itunes:title>COVID 19 e restauração</itunes:title>
       <description>
-      <![CDATA[ <p> Respostas às perguntas:</p><p>Qual o impacto do covid na restauração?</p><p>Onde tudo começou?</p>]]>
+        <![CDATA[ <p> Respostas às perguntas:</p><p>Qual o impacto do covid na restauração?</p><p>Onde tudo começou?</p>]]>
       </description>
       <itunes:summary>Respostas às perguntas: Qual o impacto do covid na restauração? Onde tudo começou?</itunes:summary>
-      <enclosure 
-        length="1541888" 
-        type="audio/mp3" 
-        url="https://mausaoalto.github.io/files/1_COVIDerestauracao.mp3"
-      />
+      <enclosure length="1541888" type="audio/mp3" url="https://mausaoalto.github.io/files/1_COVIDerestauracao.mp3" />
       <guid>maa2021011401</guid>
       <pubDate>Thursday, 14 Jan 2021 18:48:00 GMT</pubDate>
       <itunes:duration>2:19</itunes:duration>
@@ -55,14 +51,10 @@
       </title>
       <itunes:title>Presidenciais 2021 Debates</itunes:title>
       <description>
-      <![CDATA[ <p> Respostas à pergunta:</p><p>Em quem votar nas presidenciais de 2021?</p>]]>
+        <![CDATA[ <p> Respostas à pergunta:</p><p>Em quem votar nas presidenciais de 2021?</p>]]>
       </description>
       <itunes:summary>Respostas à pergunta: Em quem votar nas presidenciais de 2021?</itunes:summary>
-      <enclosure 
-        length="2678914" 
-        type="audio/mp3" 
-        url="https://mausaoalto.github.io/files/2_presidenciais2021.mp3"
-      />
+      <enclosure length="2678914" type="audio/mp3" url="https://mausaoalto.github.io/files/2_presidenciais2021.mp3" />
       <guid>maa2021011602</guid>
       <pubDate>Saturday, 16 Jan 2021 13:28:00 GMT</pubDate>
       <itunes:duration>3:48</itunes:duration>
@@ -77,14 +69,10 @@
       </title>
       <itunes:title>Receitas para jantar</itunes:title>
       <description>
-      <![CDATA[ <p>2 ideias para jantar num minuto.</p>]]>
+        <![CDATA[ <p>2 ideias para jantar num minuto.</p>]]>
       </description>
-       <itunes:summary>2 ideias para jantar num minuto.</itunes:summary>
-      <enclosure 
-        length="624803" 
-        type="audio/mp3" 
-        url="https://mausaoalto.github.io/files/3_receitaparajantar.mp3"
-      />
+      <itunes:summary>2 ideias para jantar num minuto.</itunes:summary>
+      <enclosure length="624803" type="audio/mp3" url="https://mausaoalto.github.io/files/3_receitaparajantar.mp3" />
       <guid>maa2021011603</guid>
       <pubDate>Saturday, 16 Jan 2021 13:29:00 GMT</pubDate>
       <itunes:duration>55</itunes:duration>
@@ -99,14 +87,10 @@
       </title>
       <itunes:title>Natal Covid</itunes:title>
       <description>
-      <![CDATA[ <p>Uma ideia tão brilhante para celebrar o Natal em tempos de COVID que merece ser partilhada.</p><p>Até a carta ao pai natal aparece.</p>]]>
+        <![CDATA[ <p>Uma ideia tão brilhante para celebrar o Natal em tempos de COVID que merece ser partilhada.</p><p>Até a carta ao pai natal aparece.</p>]]>
       </description>
-        <itunes:summary>Uma ideia tão brilhante para celebrar o Natal em tempos de COVID que merece ser partilhada. Até a carta ao pai natal aparece.</itunes:summary>
-      <enclosure 
-        length="1959771" 
-        type="audio/mp3" 
-        url="https://mausaoalto.github.io/files/4_NatalCovid.mp3"
-      />
+      <itunes:summary>Uma ideia tão brilhante para celebrar o Natal em tempos de COVID que merece ser partilhada. Até a carta ao pai natal aparece.</itunes:summary>
+      <enclosure length="1959771" type="audio/mp3" url="https://mausaoalto.github.io/files/4_NatalCovid.mp3" />
       <guid>maa2021011604</guid>
       <pubDate>Saturday, 16 Jan 2021 13:30:00 GMT</pubDate>
       <itunes:duration>2:56</itunes:duration>
@@ -121,14 +105,10 @@
       </title>
       <itunes:title>Robots aspirador</itunes:title>
       <description>
-      <![CDATA[ <p>Como vão ser os robots aspiradores no futuro?</p>]]>
+        <![CDATA[ <p>Como vão ser os robots aspiradores no futuro?</p>]]>
       </description>
-       <itunes:summary>Como vão ser os robots aspiradores no futuro?</itunes:summary>
-      <enclosure 
-        length="472445" 
-        type="audio/mp3" 
-        url="https://mausaoalto.github.io/files/5_robotsdecozinha.mp3"
-      />
+      <itunes:summary>Como vão ser os robots aspiradores no futuro?</itunes:summary>
+      <enclosure length="472445" type="audio/mp3" url="https://mausaoalto.github.io/files/5_robotsdecozinha.mp3" />
       <guid>maa2021011605</guid>
       <pubDate>Saturday, 16 Jan 2021 13:31:00 GMT</pubDate>
       <itunes:duration>42</itunes:duration>
@@ -138,19 +118,15 @@
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
-       <title>
+      <title>
        Como surgiu o Crossfit?
       </title>
       <itunes:title>Como surgiu o Crossfit?</itunes:title>
       <description>
-      <![CDATA[ <p>Este episódio poderia ter sido muito mais profundo, filosófico e longo. Mas só conseguimos descobrir como nasceu o Crossfit!</p>]]>
+        <![CDATA[ <p>Este episódio poderia ter sido muito mais profundo, filosófico e longo. Mas só conseguimos descobrir como nasceu o Crossfit!</p>]]>
       </description>
-         <itunes:summary>Este episódio poderia ter sido muito mais profundo, filosófico e longo. Mas só conseguimos descobrir como nasceu o Crossfit!</itunes:summary>
-      <enclosure 
-        length="2510510" 
-        type="audio/mp3" 
-        url="https://mausaoalto.github.io/files/6_comosurgiuocrossfit.mp3"
-      />
+      <itunes:summary>Este episódio poderia ter sido muito mais profundo, filosófico e longo. Mas só conseguimos descobrir como nasceu o Crossfit!</itunes:summary>
+      <enclosure length="2510510" type="audio/mp3" url="https://mausaoalto.github.io/files/6_comosurgiuocrossfit.mp3" />
       <guid>maa2021011606</guid>
       <pubDate>Saturday, 16 Jan 2021 13:33:00 GMT</pubDate>
       <itunes:duration>2:51</itunes:duration>
@@ -158,26 +134,146 @@
       <itunes:episode>6</itunes:episode>
       <itunes:season>1</itunes:season>
     </item>
-     <item>
+    <item>
       <itunes:episodeType>full</itunes:episodeType>
-       <title>
+      <title>
        Escola Profissional
       </title>
       <itunes:title>Escola Profissional</itunes:title>
       <description>
-      <![CDATA[ <p>Tentamos criar o jingle do podcast, mas acabamos a falar do profissionalismo em Portugal.</p>]]>
+        <![CDATA[ <p>Tentamos criar o jingle do podcast, mas acabamos a falar do profissionalismo em Portugal.</p>]]>
       </description>
-         <itunes:summary>Tentamos criar o jingle do podcast, mas acabamos a falar do profissionalismo em Portugal.</itunes:summary>
-      <enclosure 
-        length="2492218" 
-        type="audio/mp3" 
-        url="https://mausaoalto.github.io/files/7_escolaprofissional.mp3"
-      />
+      <itunes:summary>Tentamos criar o jingle do podcast, mas acabamos a falar do profissionalismo em Portugal.</itunes:summary>
+      <enclosure length="2492218" type="audio/mp3" url="https://mausaoalto.github.io/files/7_escolaprofissional.mp3" />
       <guid>maa2021013107</guid>
       <pubDate>Saturday, 31 Jan 2021 16:33:00 GMT</pubDate>
       <itunes:duration>3:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>
+       Porque é que acabaram as Smart shops?
+      </title>
+      <itunes:title>Porque é que acabaram as Smart shops?</itunes:title>
+      <description>
+        <![CDATA[ <p>Pedimos desculpa pelo barulho dos tachos, mas no final vão perceber o verdadeiro ‘tacho’ dos políticos.
+Neste episódio exploramos uma ideia para uma reportagem no «Sexta às 9» com base no facto das smart shops terem sido fechadas em 2013. 
+Ele acha que foi para proteger a população, eu acho que foi devido ao facto que ninguém na política estava a beneficiar com esse negócio.</p>]]>
+      </description>
+      <itunes:summary>Pedimos desculpa pelo barulho dos tachos, mas no final vão perceber o verdadeiro ‘tacho’ dos políticos.
+Neste episódio exploramos uma ideia para uma reportagem no «Sexta às 9» com base no facto das smart shops terem sido fechadas em 2013. 
+Ele acha que foi para proteger a população, eu acho que foi devido ao facto que ninguém na política estava a beneficiar com esse negócio.</itunes:summary>
+      <enclosure length="4323336" type="audio/mp3" url="https://mausaoalto.github.io/files/8_Porque_que_acabaram_as_smart _shops.mp3" />
+      <guid>maa2021052108</guid>
+      <pubDate>Friday, 21 May 2021 16:33:00 GMT</pubDate>
+      <itunes:duration>6:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>
+       Comediantes portugueses
+      </title>
+      <itunes:title>Comediantes portugueses</itunes:title>
+      <description>
+        <![CDATA[ <p>Serão os comediantes filósofos?
+      Neste episódio comparamos o estilo de comédia do Jack Whitehall vs Bert Kreischer.
+      Podem encontrar stand up dos 2 na Netflix. Ambos recomendados.</p>]]>
+      </description>
+      <itunes:summary>Serão os comediantes filósofos?
+Neste episódio comparamos o estilo de comédia do Jack Whitehall vs Bert Kreischer.
+Podem encontrar stand up dos 2 na Netflix. Ambos recomendados.</itunes:summary>
+      <enclosure length="1841035" type="audio/mp3" url="https://mausaoalto.github.io/files/9_Serao_os_comediantes_filosofos.mp3" />
+      <guid>maa2021052109</guid>
+      <pubDate>Friday, 21 May 2021 16:35:00 GMT</pubDate>
+      <itunes:duration>2:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>
+       Erosão do solo ou extinção do solo?
+      </title>
+      <itunes:title>Erosão do solo ou extinção do solo?</itunes:title>
+      <description>
+        <![CDATA[ <p>Uma ideia alarmante que parece não preocupar niguém.</p>]]>
+      </description>
+      <itunes:summary>Uma ideia alarmante que parece não preocupar niguém.</itunes:summary>
+      <enclosure length="682879" type="audio/mp3" url="https://mausaoalto.github.io/files/10_erosao_do_solo.mp3" />
+      <guid>maa2021052110</guid>
+      <pubDate>Friday, 21 May 2021 16:37:00 GMT</pubDate>
+      <itunes:duration>1:1</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>
+       Como criar um jingle?
+      </title>
+      <itunes:title>Como criar um jingle?</itunes:title>
+      <description>
+        <![CDATA[ <p>Ou como não fazer. Neste episódio vão perceber porque é que não temos um jingle..</p>]]>
+      </description>
+      <itunes:summary>Ou como não fazer. Neste episódio vão perceber porque é que não temos um jingle.</itunes:summary>
+      <enclosure length="1027300" type="audio/mp3" url="https://mausaoalto.github.io/files/11_Tentar_fazer_um_jingle.mp3" />
+      <guid>maa2021052111</guid>
+      <pubDate>Friday, 21 May 2021 16:39:00 GMT</pubDate>
+      <itunes:duration>1:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>11</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>
+       Rejuvenescimento facial e intimo
+      </title>
+      <itunes:title>Rejuvenescimento facial e intimo</itunes:title>
+      <description>
+        <![CDATA[ <p>Será que descobri o segredo da longevidade feminina?</p>]]>
+      </description>
+      <itunes:summary>Será que descobri o segredo da longevidade feminina?</itunes:summary>
+      <enclosure length="422092" type="audio/mp3" url="https://mausaoalto.github.io/files/12_Rejuvenescimento_facial_e_intimo.mp3" />
+      <guid>maa2021052112</guid>
+      <pubDate>Friday, 21 May 2021 16:41:00 GMT</pubDate>
+      <itunes:duration>0:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>12</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>
+       Ideias soltas
+      </title>
+      <itunes:title>Ideias soltas</itunes:title>
+      <description>
+        <![CDATA[ <p>Várias ideias soltas:</p>
+<p>- Como comer chilli sem sofrer.</p>
+<p>- O segredo para uma relação saudável discrito por um vitima.</p>
+<p>- Os empregos que acabaram com a vinda dos smart phones.</p>
+<p>- A vida imaginária dos comediantes.</p>]]>
+      </description>
+      <itunes:summary>Várias ideias soltas:
+         - Como comer chilli sem sofrer.
+         - O segredo para uma relação saudável discrito por um vitima.
+         - Os empregos que acabaram com a vinda dos smart phones.
+         - A vida imaginária dos comediantes.</itunes:summary>
+      <enclosure length="2776013" type="audio/mp3" url="https://mausaoalto.github.io/files/13_Ideias_soltas.mp3" />
+      <guid>maa2021052113</guid>
+      <pubDate>Friday, 21 May 2021 16:43:00 GMT</pubDate>
+      <itunes:duration>4:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>13</itunes:episode>
       <itunes:season>1</itunes:season>
     </item>
   </channel>
