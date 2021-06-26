@@ -423,6 +423,192 @@ As pessoas já não trocam ideias, mas nós estamos cá para trocarmos as ideias
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>19</itunes:episode>
       <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>
+       Comunicacao, Facebook e Vacinas
+      </title>
+      <itunes:title>Comunicacao, Facebook e Vacinas</itunes:title>
+      <description>
+        <![CDATA[ <p>Falamos da importância da comunicacao, do Facebook e das Vacinas. 
+Nunca aprenderam tanto em 5 minutos digam lá!
+´Heil vacinas, heil vacinas´...</p>]]>
+      </description>
+      <itunes:summary>Falamos da importância da comunicacao, do Facebook e das Vacinas. 
+Nunca aprenderam tanto em 5 minutos digam lá!
+´Heil vacinas, heil vacinas´...</itunes:summary>
+      <enclosure length="4751489" type="audio/mp3" url="https://mausaoalto.github.io/files/20_comunicacao_facebook_vacinas.mp3" />
+      <guid>maa2021052120</guid>
+      <pubDate>Wednesday, 26 June 2021 19:57:00 GMT</pubDate>
+      <itunes:duration>06:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>20</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>
+       O abuso da geracao alfa
+      </title>
+      <itunes:title>O abuso da geracao alfa</itunes:title>
+      <description>
+        <![CDATA[ <p>Como é que a geracao alfa, quando for adulta, vai reagir à exposiçao de que foi vitima?</p>]]>
+      </description>
+      <itunes:summary>Como é que a geracao alfa, quando for adulta, vai reagir à exposiçao de que foi vitima?</itunes:summary>
+      <enclosure length="1663481" type="audio/mp3" url="https://mausaoalto.github.io/files/21_O_abuso_da_geracao_alfa.mp3" />
+      <guid>maa2021052121</guid>
+      <pubDate>Wednesday, 26 June 2021 19:58:00 GMT</pubDate>
+      <itunes:duration>02:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>21</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>    
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>
+       Hannah Gadsby na Netflix e a piada das 3 mulheres
+      </title>
+      <itunes:title>Hannah Gadsby na Netflix e a piada das 3 mulheres</itunes:title>
+      <description>
+        <![CDATA[ <p>Introspectiva da piada de Hannah Gadsby, no especial da Netflix, acerca dos quadros das 3 mulheres na floresta.</p>]]>
+      </description>
+      <itunes:summary>Introspectiva da piada de Hannah Gadsby, no especial da Netflix, acerca dos quadros das 3 mulheres na floresta.</itunes:summary>
+      <enclosure length="1229119" type="audio/mp3" url="https://mausaoalto.github.io/files/22_Hannah_Gadsby_e_3_mulheres.mp3" />
+      <guid>maa2021052122</guid>
+      <pubDate>Wednesday, 26 June 2021 19:59:00 GMT</pubDate>
+      <itunes:duration>01:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>22</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>       
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>
+       Origem do COVID e tecnologias
+      </title>
+      <itunes:title>Origem do COVID e tecnologias</itunes:title>
+      <description>
+        <![CDATA[ <p>Uma teoria que merece discussão, tal como qualquer outra…</p>]]>
+      </description>
+      <itunes:summary>Uma teoria que merece discussão, tal como qualquer outra…</itunes:summary>
+      <enclosure length="1191178" type="audio/mp3" url="https://mausaoalto.github.io/files/23_Origem_do_COVID_e_Tecnologias.mp3" />
+      <guid>maa2021052123</guid>
+      <pubDate>Wednesday, 26 June 2021 20:22:00 GMT</pubDate>
+      <itunes:duration>01:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>23</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>
+       Servidores para tótós
+      </title>
+      <itunes:title>Servidores para tótós</itunes:title>
+      <description>
+        <![CDATA[ <p>O que é preciso para ouvirem um podcast e Como é que os servidores funcionam?</p>]]>
+      </description>
+      <itunes:summary>O que é preciso para ouvirem um podcast e Como é que os servidores funcionam?</itunes:summary>
+      <enclosure length="1661581" type="audio/mp3" url="https://mausaoalto.github.io/files/24_Servidores_para_totos.mp3" />
+      <guid>maa2021052124</guid>
+      <pubDate>Wednesday, 26 June 2021 20:23:00 GMT</pubDate>
+      <itunes:duration>02:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>24</itunes:episode>
+      <itunes:season>1</itunes:season>
     </item> 
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>
+       Sera racismo?
+      </title>
+      <itunes:title>Sera racismo?</itunes:title>
+      <description>
+        <![CDATA[ <p>Será a nossa linguagem vitima de racismo?</p>]]>
+      </description>
+      <itunes:summary>Será a nossa linguagem vitima de racismo?</itunes:summary>
+      <enclosure length="644068" type="audio/mp3" url="https://mausaoalto.github.io/files/25_Sera_racismo_.mp3" />
+      <guid>maa2021052125</guid>
+      <pubDate>Wednesday, 26 June 2021 20:24:00 GMT</pubDate>
+      <itunes:duration>00:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>25</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>
+       Origem COVID e Tiktok
+      </title>
+      <itunes:title>Origem COVID e Tiktok</itunes:title>
+      <description>
+        <![CDATA[ <p>Relacao entre o tiktok e covid explicada 
+Tirem os vossos filhos dessa m**da</p>]]>
+      </description>
+      <itunes:summary>Relacao entre o tiktok e covid explicada 
+Tirem os vossos filhos dessa m**da</itunes:summary>
+      <enclosure length="674843" type="audio/mp3" url="https://mausaoalto.github.io/files/26_origem_covid_e_tiktok.mp3" />
+      <guid>maa2021052126</guid>
+      <pubDate>Wednesday, 26 June 2021 20:25:00 GMT</pubDate>
+      <itunes:duration>00:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>26</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item> 
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>
+       Independência aos 18 anos… porquê?
+      </title>
+      <itunes:title>Independência aos 18 anos… porquê?</itunes:title>
+      <description>
+        <![CDATA[ <p>Rápido pensamento: porque é que as nossas crianças só são independentes aos 18 anos?</p>]]>
+      </description>
+      <itunes:summary>Rápido pensamento: porque é que as nossas crianças só são independentes aos 18 anos?</itunes:summary>
+      <enclosure length="901500" type="audio/mp3" url="https://mausaoalto.github.io/files/27_Independencia_so_aos_18_porque.mp3" />
+      <guid>maa2021052127</guid>
+      <pubDate>Wednesday, 27 June 2021 20:26:00 GMT</pubDate>
+      <itunes:duration>01:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>27</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>
+       Louis C K e masturbação
+      </title>
+      <itunes:title>Louis C K e masturbação</itunes:title>
+      <description>
+        <![CDATA[ <p>Comentamos o comeback bit do Louis C K sobre a sua masturbação...</p>]]>
+      </description>
+      <itunes:summary>Comentamos o comeback bit do Louis C K sobre a sua masturbação...</itunes:summary>
+      <enclosure length="2086138" type="audio/mp3" url="https://mausaoalto.github.io/files/28_Louis_C_K_genio_da_comedia.mp3" />
+      <guid>maa2021052128</guid>
+      <pubDate>Wednesday, 27 June 2021 20:28:00 GMT</pubDate>
+      <itunes:duration>02:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>28</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>  
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>
+       Os políticos são o reflexo da sua população
+      </title>
+      <itunes:title>Os políticos são o reflexo da sua população</itunes:title>
+      <description>
+        <![CDATA[ <p>O que acham? Concordam?</p>]]>
+      </description>
+      <itunes:summary>O que acham? Concordam?</itunes:summary>
+      <enclosure length="1565504" type="audio/mp3" url="https://mausaoalto.github.io/files/29_Os_politicos_sao_o_reflexo_da_populacao.mp3" />
+      <guid>maa2021052129</guid>
+      <pubDate>Wednesday, 27 June 2021 20:40:00 GMT</pubDate>
+      <itunes:duration>02:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>29</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>                            
   </channel>
 </rss>
