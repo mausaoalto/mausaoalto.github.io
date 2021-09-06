@@ -609,6 +609,44 @@ Tirem os vossos filhos dessa m**da</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>29</itunes:episode>
       <itunes:season>1</itunes:season>
-    </item>                            
+    </item>
+        <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>
+       Segredo da felicidade
+      </title>
+      <itunes:title>Segredo da felicidade</itunes:title>
+      <description>
+        <![CDATA[ <p>Pessoas sem sentido de humor podem-se sentir trigered pelo conteúdo deste episódio.
+Exploramos o segredo felicidade, mais uma teoria falhada do COVID e questionamo-nos o que é que o Bruno Aleixo achará deste conteúdo.</p>]]>
+      </description>
+      <itunes:summary>Pessoas sem sentido de humor podem-se sentir trigered pelo conteúdo deste episódio.
+Exploramos o segredo felicidade, mais uma teoria falhada do COVID e questionamo-nos o que é que o Bruno Aleixo achará deste conteúdo.</itunes:summary>
+      <enclosure length="7176626" type="audio/mp3" url="https://mausaoalto.github.io/files/30_Segredo_da_felicidade.mp3" />
+      <guid>maa2021090630</guid>
+      <pubDate>Wednesday, 06 September 2021 20:40:00 GMT</pubDate>
+      <itunes:duration>10:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>30</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>  
+        <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>
+       Video fake, Lider mundial e Aliens
+      </title>
+      <itunes:title>Video fake, Lider mundial e Aliens</itunes:title>
+      <description>
+        <![CDATA[ <p>Falamos de um video fake de uma chinesa que perdeu 45 kg, mais uma ideia que nao vou concretizar, de ditadura, diversas teorias para explicar o COVID, em que uma delas envolve um líder mundial e aliens.</p>]]>
+      </description>
+      <itunes:summary>Falamos de um video fake de uma chinesa que perdeu 45 kg, mais uma ideia que nao vou concretizar, de ditadura, diversas teorias para explicar o COVID, em que uma delas envolve um líder mundial e aliens.</itunes:summary>
+      <enclosure length="8368992" type="audio/mp3" url="https://mausaoalto.github.io/files/31_Video_Fake_Lider_mundial_e_Aliens.mp3" />
+      <guid>maa2021090631</guid>
+      <pubDate>Wednesday, 06 September 2021 20:40:00 GMT</pubDate>
+      <itunes:duration>11:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>31</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>                              
   </channel>
 </rss>
